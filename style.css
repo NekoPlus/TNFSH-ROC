@@ -1,21 +1,15 @@
 div{
   background-color:#886600;
 }
-h1{
+#title{
   font-size:500%;
   color:white;
   text-align:center;
   text-shadow:0px 0px 40px white;
 }
-h2{
-  font-size:500%;
-  color:white;
-  text-align:center;
-  text-shadow:0px 0px 40px white;
-}
-h4{
+
+#info{
   font-size:300%;
   color:#FFFACD;
-  text-align:center;
   text-shadow:0px 0px 40px #FFFF00;
 }
