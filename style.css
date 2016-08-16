@@ -14,3 +14,9 @@ h2{
   text-align:center;
   text-shadow:0px 0px 40px white;
 }
+p{
+  font-size:100%;
+  color:black;
+  text-align:center;
+  background-color:green;
+}
